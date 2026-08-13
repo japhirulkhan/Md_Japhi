@@ -1,2 +1,2 @@
 # Md_Japhi
-images/.gitkeep
+assets/images/.gitkeep
